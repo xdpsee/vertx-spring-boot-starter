@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+pri.zhenhui.demo.vertx.boot.autoconfigure.VertxAutoConfiguration
